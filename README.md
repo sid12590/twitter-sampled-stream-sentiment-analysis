@@ -6,7 +6,7 @@ After a bit of research, I found out that Twitter provides API functions to faci
 
 The sampled stream endpoint allows developers to stream about 1% of all new public Tweets as they happen. You can connect no more than one client per session and can disconnect and reconnect no more than 50 times per 15-minute window.
 
-This did not help accomplish my original plan to filter tweets based on a rule. So, for this project I will instead just try performing Sentiment Analysis using AWS Comprehend on some of the tweets that I am able to capture using a small python program. 
+So, for this project I will instead just try performing Sentiment Analysis using AWS Comprehend on some of the tweets that I am able to capture using a small python program. 
 
 AWS Comprehend Service
 
@@ -23,8 +23,6 @@ The output of the program will look something like this:
 tweet-id
 sentiment
 
-
 I have chosen to hide the tweet text for privacy concerns. The screenshot below shows the tweet id followed by its sentiment.
- 
 
 In my next project I will try using the Filtered stream as soon as I get access to the API and plot a sentiment graph on a topic like PlayStation5.
