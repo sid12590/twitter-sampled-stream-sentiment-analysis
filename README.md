@@ -16,7 +16,7 @@ Before going ahead, you will need to create a new app under twitter developer ac
 
 I am using AWS Free Tier, that provides free sentiment analysis API for 50K units of text (5M characters) along with six other APIs Key Phrase Extraction, Entity Recognition, Language Detection, Syntax Analysis, Custom Entities, and Custom Classification) for the first 12 months. 
 
-If you are outside free tier, this will cost money! Based on AWS’s pricing structure, 1 ,000 tweets will cost around 30 cents.
+If you are outside free tier, this will cost money! Based on AWS’s pricing structure, 1,000 tweets will cost around 30 cents.
 
 The output of the program will look something like this:
 
