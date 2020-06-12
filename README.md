@@ -22,7 +22,7 @@ The output of the program will look something like this:
 
 tweet-id
 sentiment
------------
+
 
 I have chosen to hide the tweet text for privacy concerns. The screenshot below shows the tweet id followed by its sentiment.
  
